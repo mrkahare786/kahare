@@ -1,0 +1,10 @@
+.logo {
+width: 5%;
+height: 5%;
+}
+body, html {
+    height: 100%;
+}
+.scrollable-container {
+    overflow: auto; /* or overflow: scroll; */
+}
